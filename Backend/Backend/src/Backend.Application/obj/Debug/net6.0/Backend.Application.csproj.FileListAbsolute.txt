@@ -1,0 +1,15 @@
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\bin\Debug\net6.0\Backend.Application.deps.json
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\bin\Debug\net6.0\Backend.Application.dll
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\bin\Debug\net6.0\Backend.Application.pdb
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\bin\Debug\net6.0\Backend.Core.dll
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\bin\Debug\net6.0\Backend.Core.pdb
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\Backend.Application.csproj.AssemblyReference.cache
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\Backend.Application.AssemblyInfoInputs.cache
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\Backend.Application.AssemblyInfo.cs
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\Backend.Application.csproj.CopyComplete
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\Backend.Application.dll
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\refint\Backend.Application.dll
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\Backend.Application.pdb
+C:\Users\ahmed.kandil\Documents\GitHub\DDD\Backend\Backend\src\Backend.Application\obj\Debug\net6.0\ref\Backend.Application.dll
