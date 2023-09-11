@@ -1,0 +1,16 @@
+version: "3.7"
+
+services:
+  api:
+    build: ../../                                   # or use image: name_your_image
+    container_name: A5bark-api
+    restart: unless-stopped
+    ports:
+      - '5000:5000'
+    networks:
+      - A5bark
+
+networks:
+  A5bark:
+    name: A5bark-network
+    external: true
